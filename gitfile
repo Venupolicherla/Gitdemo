@@ -1,5 +1,7 @@
 gitcode
 line 2
-line33
+line33,line 34
 gitpractise
 git push
+git pull
+git merge
